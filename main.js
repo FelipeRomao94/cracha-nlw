@@ -3,7 +3,7 @@ const LinksSocialMedia = {
   youtube: 'FelipeRomao',
   facebook: 'felipe.romaolhp',
   instagram: 'Feh_Romao',
-  twitter: 'FelipeRomao'
+  twitter: 'Felipe Romão'
 }
 
 function chageSocialMedia() {
