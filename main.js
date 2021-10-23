@@ -1,6 +1,6 @@
 const LinksSocialMedia = {
   github: 'FelipeRomao94',
-  youtube: 'https://www.youtube.com/channel/UCGmWXDGv1CR0lkjO4w_NeGg',
+  youtube: 'FelipeRomao',
   facebook: 'felipe.romaolhp',
   instagram: 'Feh_Romao',
   twitter: 'Felipe Romão'
